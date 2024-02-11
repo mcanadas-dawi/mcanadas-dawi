@@ -10,7 +10,7 @@
 
 - 👷 He trabajo siempre en el sector del deporte, sobre todo como entrenador de fútbol aunque siempre me ha gustado la informática.
 
-- 📚 Tengo el TAFAD (Técnico superior en animación de actividades fisicas y deportivas) y el GM (Grado medio) en técnico de fútbol. 
+- 📚 Tengo el TAFAD (Técnico superior en animación de actividades físicas y deportivas) y el GM (Grado medio) en técnico de fútbol. 
 
 - 📫 Quieres contactarme? Aquí tienes mi email **canadassuaumarc@gmail.com**
 <!--introducción-->
