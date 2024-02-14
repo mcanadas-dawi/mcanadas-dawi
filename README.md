@@ -14,6 +14,7 @@
 
 - 📫 Quieres contactarme? Aquí tienes mi email **canadassuaumarc@gmail.com**
 <!--introducción-->
+<img src="https://komarev.com/ghpvc/?username=mcanadas-dawi&label=Profile%20views&color=0e75b6&style=flat" alt="marccañadassuau" />
 
 ### CodeWars ###
 [![](https://www.codewars.com/users/MarcCs11/badges/large)](https://www.codewars.com/users/MarcCs11)
