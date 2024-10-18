@@ -14,7 +14,8 @@
 
 - 🏨 Actualmente trabajo en Hoteles Barceló (formación dual)
 
-- 📫 Quieres contactarme? Aquí tienes mi email **canadassuaumarc@gmail.com**
+- 📫 Quieres contactarme? Aquí tienes mi email **canadassuaumarc@gmail.com** y mi linkedin:
+<a href="https://linkedin.com/in/(https://www.linkedin.com/in/marc-ca%C3%B1adas-suau-3911b7261/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marccañadas" height="30" width="40" /></a>
 <!--introducción-->
 <img src="https://komarev.com/ghpvc/?username=mcanadas-dawi&label=Profile%20views&color=0e75b6&style=flat" alt="marccañadassuau" />
 
