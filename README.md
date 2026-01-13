@@ -2,9 +2,7 @@
 ![github-header-image](https://github.com/mcanadas-dawi/mcanadas-dawi/assets/146749638/1c4b269e-5533-493f-9e21-ecece874284b)
 
 <!--introducción-->
-- 🔭 Actualmente estudio Desarrollo de Aplicaciones Web (DAW) en formato DUAL, el cual me permite formarme tanto en el instituto como en la empresa.
-
-- 🌱 Actualmente estoy aprendiendo **Java, Javascript y MariaDB**
+- 🏨 Actualmente trabajo en Hoteles Barceló como Data Collector. 
 
 - 🗣️ Hablo Español y Catalán (lenguas maternas) y también me defiendo en inglés.
 
@@ -12,7 +10,7 @@
 
 - 📚 Tengo el TAFAD (Técnico superior en animación de actividades físicas y deportivas) y el GM (Grado medio) en técnico de fútbol.
 
-- 🏨 Actualmente trabajo en Hoteles Barceló (formación dual)
+
 
 - 📫 Quieres contactarme? Aquí tienes mi email **canadassuaumarc@gmail.com** y mi linkedin:
 <a href="https://linkedin.com/in/marc-cañadas-suau-3911b7261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marccañadas" height="30" width="40" /></a>
